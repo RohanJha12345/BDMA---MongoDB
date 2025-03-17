@@ -5,8 +5,8 @@
 📌 **Repository Name:** `Abhijeet055002/BDMA-MongoDB`  
 📌 **Project Name:** `Movie Database Analysis using MongoDB`  
 📌 **Contributors:**  
+- **Rohan Jha (055057)**
 - **Abhijeet (055002)**
-- **Rohan Jha (055057)**  
 📌 **Group:** `Group 19`  
 📌 **Tools Used:** MongoDB Compass, Atlas Charts, Jupyter Notebook  
 
@@ -104,8 +104,8 @@ For suggestions or contributions, create a pull request or open an issue.
 
 📩 Contact:
 
-Abhijeet: GitHub
 Rohan Jha: GitHub
+Abhijeet: GitHub
 🎯 This project provides a data-driven approach to understanding movie trends & success factors! 🎬🔥
 markdown
 Copy
