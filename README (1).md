@@ -113,16 +113,3 @@ Edit
 
 ---
 
-### 📌 **How to Use This in GitHub**
-1️⃣ **Create a new file** in your repo: `README.md`  
-2️⃣ **Copy & paste** the above content into `README.md`  
-3️⃣ **Commit & push** to GitHub  
-
-🚀 Now, your repository **Abhijeet055002/BDMA-MongoDB** has a **professional README** with:
-- **Clear project overview**
-- **Problem statement & observations**
-- **Insights & recommendations**
-- **Step-by-step usage instructions**
-- **GitHub contribution guide**  
-
-🎬 **Let me know if you need modifications!** 🔥🔥
