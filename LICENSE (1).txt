@@ -1,0 +1,15 @@
+MIT License with Educational Restriction
+
+Copyright (c) 2024 Abhijeet
+
+Permission is hereby granted, free of charge, to [teachers, professors, or evaluators] obtaining a copy of this software and associated documentation files (the "Software"), to use the Software **for academic evaluation purposes only**, including downloading, reviewing, and grading.
+
+THE FOLLOWING RESTRICTIONS APPLY:
+
+1. **Students, third parties, or any other individuals are NOT allowed** to copy, modify, use, or submit this project as their own for academic purposes.
+2. **Commercial use by third parties is prohibited** unless explicitly permitted by the owner.
+3. **The author (Abhijeet) retains full rights** to commercialize, license, or modify this project in the future.
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+For permissions beyond this license, please contact the author.
